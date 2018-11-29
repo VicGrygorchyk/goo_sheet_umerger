@@ -13,7 +13,7 @@ function onOpen() {
    {name: 'Join two cells', functionName: 'joinCells'},
    {name: 'Create stepId column', functionName: 'createStepId'}
  ];
- spreadsheet.addMenu('Import to Zephyr helper', menuItems);
+ spreadsheet.addMenu('Merge Join helper', menuItems);
 }
 
 /** this function unmerges cell and replaces each cell with duplicate value

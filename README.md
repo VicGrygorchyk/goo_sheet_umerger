@@ -6,10 +6,13 @@ The tool for unmerging merged cells and joining cells in Google Sheets Documents
 1. Open a Google speadsheet.
 2. in the menu -> Tools -> Script editor (Result: "Untitled project" new screen should be opened).
 3. On the "Untitled project" replace 
+
 function myFunction() {
   
 }
+
 with the code from the unmerger_script.js.
+
 4. Press Ctrl + S to save the project and enter any name.
 5. Return to the Google spreadsheet and reload the page (the script editor project screen has been closed, it's okay).
 6. At this step a new "Merge Join helper" menu should appear.

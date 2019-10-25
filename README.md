@@ -2,7 +2,7 @@
 
 The tool for unmerging merged cells and joining cells in Google Sheets Documents.
 
-# How doest it work?
+# How does it work?
 1. Open a Google speadsheet.
 2. in the menu -> Tools -> Script editor (Result: "Untitled project" new screen should be opened).
 3. On the "Untitled project" replace 
